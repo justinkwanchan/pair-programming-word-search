@@ -1,3 +1,5 @@
+// Pair Programming - Word Search - With Simon Huang
+
 function transpose(matrix) {
   let newArray = [];
   for (let i = 0; i < matrix[0].length; i++) {
